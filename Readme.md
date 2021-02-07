@@ -1,4 +1,4 @@
-# 👑Royal game of UR
+# 👑Royal game of UR👑
                                                         Player 1
                                                   ⦶,⦶,⦶,⦶,⦶,⦶,⦶
       
