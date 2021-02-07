@@ -1,4 +1,4 @@
-<h1> <center>👑Royal game of UR👑 </center></h1>
+<h1 align="center">👑Royal game of UR👑 </h1>
 
                                                         Player 1
                                                   ⦶,⦶,⦶,⦶,⦶,⦶,⦶
