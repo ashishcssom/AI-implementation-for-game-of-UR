@@ -38,6 +38,9 @@ Each player has a `starting safe zone` which is four squares long. Next, there i
 
 ▶️ [Watch game play](https://www.youtube.com/watch?v=WZskjLq040I) 
 
+## Credit
+- Kirk Lange [github link](https://github.com/kirklange)
+- Cole Schultz [github link](https://github.com/schultzcole)
 
 ## License
 
