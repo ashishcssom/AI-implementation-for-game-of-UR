@@ -39,3 +39,14 @@ Each player has a `starting safe zone` which is four squares long. Next, there i
 ▶️ [Watch game play](https://www.youtube.com/watch?v=WZskjLq040I) 
 
 
+## License
+
+[![MIT License](https://img.shields.io/github/license/ashishcssom/AI-implementation-for-game-of-UR.svg?style=flat-square&colorB=C62121)](https://github.com/ashishcssom/AI-implementation-for-game-of-UR/blob/main/LICENSE)
+```
+Copyright (c) 2020 Ashish Kumar
+```
+
+## Contact
+[![LinkedIn](https://img.shields.io/badge/-Ashish%20Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashishk766/)](https://www.linkedin.com/in/ashishk766/) 
+[![Gmail](https://img.shields.io/badge/-Ashish%20Kumar-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ashish.krb7@gmail.com)](mailto:ashish.krb7@gmail.com) 
+
