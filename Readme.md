@@ -38,6 +38,8 @@ Each player has a `starting safe zone` which is four squares long. Next, there i
 
 ▶️ [Watch game play](https://www.youtube.com/watch?v=WZskjLq040I) 
 
+📙 [Click here to know more](https://en.wikipedia.org/wiki/Royal_Game_of_Ur)
+
 ## Credit
 - Kirk Lange [github link](https://github.com/kirklange)
 - Cole Schultz [github link](https://github.com/schultzcole)
