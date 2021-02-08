@@ -55,3 +55,8 @@ Copyright (c) 2020 Ashish Kumar
 [![LinkedIn](https://img.shields.io/badge/-Ashish%20Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashishk766/)](https://www.linkedin.com/in/ashishk766/) 
 [![Gmail](https://img.shields.io/badge/-Ashish%20Kumar-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ashish.krb7@gmail.com)](mailto:ashish.krb7@gmail.com) 
 
+## Contibutors
+
+<a href="https://github.com/ashishkrb7/AI-implementation-for-game-of-UR/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ashishkrb7/AI-implementation-for-game-of-UR" />
+</a>
